@@ -1,1 +1,3 @@
-# .github
+# SmileFOKUS
+
+Welcome to SmileFOKUS :)
